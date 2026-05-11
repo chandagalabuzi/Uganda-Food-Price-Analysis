@@ -9,13 +9,13 @@ However, understanding how food prices vary across regions, commodity categories
 
 This project uses data-driven methods to analyze food price dynamics in Uganda in order to:
 
-📈 Identify inflation trends over time
+- Identify inflation trends over time
 
-🌍 Explore regional price differences
+- Explore regional price differences
 
-🥕 Understand commodity-level price behavior
+- Understand commodity-level price behavior
 
-⚙️ Determine key factors influencing food prices
+- Determine key factors influencing food prices
 
 
 📊 Dataset Source
@@ -38,11 +38,12 @@ Prices in UGX and USD
 Geographic coordinates (latitude & longitude)
 
 This enables:
-📊 Temporal analysis
 
-🌍 Spatial (regional) analysis
+- Temporal analysis
 
-📈 Statistical and econometric modeling
+- Spatial (regional) analysis
+
+- Statistical and econometric modeling
 
 
 🛠️ Tools Used
@@ -64,29 +65,29 @@ This enables:
 
 🔍 Key Analyses
 
-📌 Exploratory analysis of food commodity and category distributions
+- Exploratory analysis of food commodity and category distributions
 
-📈 Time series analysis of food price trends and inflation patterns
+- Time series analysis of food price trends and inflation patterns
 
-🥗 Comparative analysis of staple vs fresh food categories
+- Comparative analysis of staple vs fresh food categories
 
-🌍 Regional and market-level food price analysis across Uganda
+- Regional and market-level food price analysis across Uganda
 
-🔗 Correlation and statistical trend analysis
+- Correlation and statistical trend analysis
 
-📉 Regression modeling to identify key drivers of food prices
+- Regression modeling to identify key drivers of food prices
 
 
 💡 Key Findings
 
-📈 Food prices in Uganda show a consistent upward trend over time, indicating persistent inflationary pressure.
+- Food prices in Uganda show a consistent upward trend over time, indicating persistent inflationary pressure.
 
-🥩 Meat, fish, and eggs are among the most expensive food categories, followed by oils and fats.
+- Meat, fish, and eggs are among the most expensive food categories, followed by oils and fats.
 
-🌍 Significant regional disparities exist, with some regions consistently showing higher food prices than others.
+- Significant regional disparities exist, with some regions consistently showing higher food prices than others.
 
-🌾 Staple food categories show varying levels of stability and volatility across time periods.
+- Staple food categories show varying levels of stability and volatility across time periods.
 
-⚠️ The period between 2020–2022 shows notable price increases, likely influenced by COVID-19-related disruptions.
+- The period between 2020–2022 shows notable price increases, likely influenced by COVID-19-related disruptions.
 
-📊 Regression analysis indicates that year, food category, and region are significant determinants of food price variation.
+- Regression analysis indicates that year, food category, and region are significant determinants of food price variation.
