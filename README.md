@@ -18,7 +18,6 @@ This project uses data-driven methods to analyze food price dynamics in Uganda i
 ⚙️ Determine key factors influencing food prices
 
 
-
 📊 Dataset Source
 
 This project uses food price data from the World Food Programme (WFP) Price Database for Uganda:
@@ -61,6 +60,7 @@ This enables:
 
 🐙 GitHub — version control and project hosting
 
+
 🔍 Key Analyses
 
 📌 Exploratory analysis of food commodity and category distributions
@@ -86,6 +86,6 @@ This enables:
 
 🌾 Staple food categories show varying levels of stability and volatility across time periods.
 
-\⚠️ The period between 2020–2022 shows notable price increases, likely influenced by COVID-19-related disruptions.
+⚠️ The period between 2020–2022 shows notable price increases, likely influenced by COVID-19-related disruptions.
 
 📊 Regression analysis indicates that year, food category, and region are significant determinants of food price variation.
